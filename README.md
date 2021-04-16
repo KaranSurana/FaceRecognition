@@ -5,3 +5,4 @@ You can register your face using the addface.py file.
 Then you can use the face recognition py file.
 
 P.S. Change the directories where you want to add/fetch your images.
+     Also, pip install the modules used in the program
